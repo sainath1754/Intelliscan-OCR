@@ -1,4 +1,4 @@
-# 📄 IntelliScan - Intelligent OCR System
+# 📄 SMART-OCR - Intelligent OCR System
 
 > Transform images and PDFs into intelligent, structured data with AI-powered OCR
 
@@ -50,8 +50,8 @@ Download and install:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/intelliscan-ocr.git
-cd intelliscan-ocr
+git clone https://github.com/yourusername/SMART-ocr.git
+cd SMART-ocr
 
 # Create virtual environment
 python3 -m venv venv
@@ -69,7 +69,7 @@ Open browser at `http://localhost:5000`
 ## 📦 Project Structure
 
 ```
-intelliscan-ocr/
+SMART-ocr/
 ├── app.py                 # Flask application
 ├── requirements.txt       # Python dependencies
 ├── render.yaml           # Render.com configuration
