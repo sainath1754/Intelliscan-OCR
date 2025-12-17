@@ -1,4 +1,4 @@
-# 📄 SMART-OCR - Intelligent OCR System
+# 📄 Intelliscan-OCR - Intelligent OCR System
 
 > Transform images and PDFs into intelligent, structured data with AI-powered OCR
 
@@ -9,8 +9,7 @@
 
 ## 🌟 Live Demo
 
-**[Try it here!](https://your-app-name.onrender.com)** *(Replace after deployment)*
-
+**[Try it here!](https://pragadasainath.pythonanywhere.com/)** 
 ## ✨ Features
 
 - 🎯 **High-Accuracy OCR** - Powered by Tesseract engine
